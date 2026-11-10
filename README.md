@@ -10,3 +10,12 @@ These packages need to be installed with pip
 Elon University is *located* in **Elon**.
 
 [LINK](https://elon.edu)
+
+
+```
+import pandas as pd
+```
+
+```python
+import pandas as pd
+```
